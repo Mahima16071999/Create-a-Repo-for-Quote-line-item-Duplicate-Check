@@ -2,6 +2,10 @@
 
 Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started.
 
+## Document for Quote Line Item.
+
+See the document [development model](https://docs.google.com/document/d/1sL6Jo2cVrhrN2-iCVYA1Gz3c7In3Cxaq5zyk0lxioLM/edit?usp=sharing).
+
 ## How Do You Plan to Deploy Your Changes?
 
 Do you want to deploy a set of changes, or create a self-contained application? Choose a [development model](https://developer.salesforce.com/tools/vscode/en/user-guide/development-models).
